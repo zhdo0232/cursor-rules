@@ -6,13 +6,11 @@
 
 文章教程：
 
-[Cursor Rules 的一次全面总结，希望能够帮助到你！](https://mp.weixin.qq.com/s/l8r2lJlEv5fKWJRSsSd1kQ)
-
-[Cursor 0.49.x 自动化生成 Project Rules 实用指南](https://mp.weixin.qq.com/s/1yTkzYzOFjty1D0gtYHuHA)
-
-[Cursor Rules 进阶指南：打造企业级多语言开发规范](https://mp.weixin.qq.com/s/rfanrMtMMuyUTwsDYmlxSg)
-
-[Cursor Rules 最佳实践总结](https://mp.weixin.qq.com/s/-J_LwfwH9rmFy4dzEy0RXg)
+- [Cursor Rules 最佳实践总结](https://mp.weixin.qq.com/s/-J_LwfwH9rmFy4dzEy0RXg)
+- [Cursor Rules 进阶指南：打造企业级多语言开发规范](https://mp.weixin.qq.com/s/rfanrMtMMuyUTwsDYmlxSg)
+- [Cursor 0.49.x 自动化生成 Project Rules 实用指南](https://mp.weixin.qq.com/s/1yTkzYzOFjty1D0gtYHuHA)
+- [Cursor Rules 的一次全面总结，希望能够帮助到你！](https://mp.weixin.qq.com/s/l8r2lJlEv5fKWJRSsSd1kQ)
+- [Cursor Rules 四大原则：让AI代码生成更稳定高效](https://mp.weixin.qq.com/s/vEUAZIJrb5kEjWptIhsC-g)
 
 视频教程：
 
